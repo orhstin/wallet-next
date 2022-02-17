@@ -43,5 +43,17 @@ div.buttons {
 }
 `;
 
-export const Box = styled.div`
-`
+export const Dashboard = styled.div``;
+export const Airdrop = styled(Button)``;
+export const Question = styled.p``;
+export const Box = styled.div``;
+export const CheckContainer = styled.div``;
+export const CheckImage = styled.img``;
+export const CheckFrom = styled.p``;
+export const Processed = styled.a``;
+export const CheckDate = styled.p``;
+export const RecipientInput = styled(Input)``;
+export const AmountInput = styled(Input)``;
+export const SignatureInput = styled(Input)``;
+export const AmountText = styled.p``;
+export const RatioText = styled.p``;
